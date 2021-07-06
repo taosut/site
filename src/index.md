@@ -1,8 +1,7 @@
 ---
 layout: home
 title: Hello hanv
-metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
-  own blog or personal website.
+metaDesc: hanv hello summer
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
